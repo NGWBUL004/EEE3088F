@@ -326,6 +326,18 @@
     [
       "3a34ae49-7c4e-4d09-9f19-4770c7be9d9e",
       ""
+    ],
+    [
+      "fc96db57-22d3-40b6-b0fe-2a2867a01b69",
+      "Power Subsystem "
+    ],
+    [
+      "0d5514b8-d396-4ac4-9b3b-98e42535ec1a",
+      "Microcontroller Subsystem"
+    ],
+    [
+      "782240bd-2ef3-4253-bfce-9e8b803f90d7",
+      "SensorSubsystem"
     ]
   ],
   "text_variables": {}
