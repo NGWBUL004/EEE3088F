@@ -1,0 +1,20 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid e8699a4a-996e-46f8-89be-500a90159fcb)
+
+  (paper "A4")
+
+  (title_block
+    (title "EEE3088F Microcontroller Subsystem ")
+    (date "2023-03-18")
+    (rev "V3")
+    (company "University of Cape Town ")
+    (comment 1 "Group 11")
+    (comment 2 "Gathuku Matheri")
+    (comment 3 "MTHMAT001")
+  )
+
+  (lib_symbols
+  )
+
+)

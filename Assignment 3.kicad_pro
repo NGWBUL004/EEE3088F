@@ -312,6 +312,14 @@
       "version": 1
     },
     "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 0,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_current_sheet_as_root": false,
@@ -328,16 +336,16 @@
       ""
     ],
     [
-      "fc96db57-22d3-40b6-b0fe-2a2867a01b69",
-      "Power Subsystem "
+      "a5cdc7f3-1e12-4ddd-ba52-749eb20e93d2",
+      "Gathuku"
     ],
     [
       "0d5514b8-d396-4ac4-9b3b-98e42535ec1a",
-      "Microcontroller Subsystem"
+      "Bulisani"
     ],
     [
-      "782240bd-2ef3-4253-bfce-9e8b803f90d7",
-      "SensorSubsystem"
+      "4e0dc03e-6dda-47fe-abf7-20df96b85056",
+      "Zinzile"
     ]
   ],
   "text_variables": {}
